@@ -23,7 +23,7 @@ import ProfileLink from './ProfileLink.vue'
 
 const links = [
   { label: 'Portfolio', adress: 'https://vvachet.netlify.app/' },
-  { label: 'Vuejs en 105 questions', adress: 'https://vvachet.notion.site/fc0788f805474f41bf1e9a0e05c7096d?v=0094735cf57d4cfca92fdafad62deccf&pvs=4' },
+  // { label: 'Vuejs en 105 questions', adress: 'https://vvachet.notion.site/fc0788f805474f41bf1e9a0e05c7096d?v=0094735cf57d4cfca92fdafad62deccf&pvs=4' },
   { label: 'Lecture 2023', adress: 'https://vvachet.notion.site/d09f8e72112f4a96a470a59b62e8df99?v=7398e98f15014e5090c65e01e1c8e461&pvs=4' },
   { label: 'Github', adress: 'https://github.com/VachetVirginie'},
   { label: 'LinkedIn', adress: 'https://www.linkedin.com/in/vachetvirginie/'},
